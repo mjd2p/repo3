@@ -5,3 +5,5 @@ this is the start of something new
 ## Local Development
 
 1. Open indext.html in your browser.
+
+now we have even more new thigns 
